@@ -1,0 +1,27 @@
+html{
+    height:100%;
+}
+body{
+    height:100%;
+    background-color: #41ab33;
+}
+#content{
+    height:100%;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https: //www.horoscope.com/images-US/games/game-magic-8-ball-no-text.png');
+}
+#question{
+    width:200px;
+    height:40px;
+}
+#title1{
+    font-family: monospace;
+    font-size: xxx-large;
+}
+#number8{
+    display: flex;
+    justify-content: center;
+}
